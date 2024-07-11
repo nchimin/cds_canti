@@ -7,7 +7,7 @@
 X:1
 M:4/4
 K:D
-fga6 |z bbabd'(a | a8) | b a2 g2 f2 z | de f6 | z e ed e2 f(d|(d8)|d8)|]
+"D"fga6 |"Em7"z bbabd'(a | "D"a8) | "G"b a2 g2 f2 z | "Bm"de f6 | "A"z e ed e2 f(d|("Gm6"d8)|d8)|]
 :::
 
 
