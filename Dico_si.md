@@ -7,17 +7,19 @@
 X:1
 M:4/4
 K:D
-fga6 |z bbabd'(a | a8) | 
-  GABc dedB|dedB dedB|c2ec B2dB|A2F2 G4:|
+fga6 |z bbabd'(a | a8) | b a2 g2 f2 z | de f6 | z e ed e2 f(d|(d8)|d8)|]
 :::
 
 
-c1: Dm                    Am                G
-l2: They don't know how   long it  takes
-l1:            They don't know how long  it takes
+c1: D       Em     D/F#          G
+l1: Dico sì    all'amore e alla vita insieme
 
-c1:                    Am     G  F          G      Esus4  E
-l1: All the leaves are brown        and the sky is gray
+c1: Bm       A      G          A
+l1: Dico sì    al futuro che verrà
 
-c1: F               C     E  Am       F        Esus4  E
-l1: I've been for a walk         on a winter's day
+c1: D       Em     D/F#          G
+l1: Dico sì    a un amore che non ha confini
+
+c1: Bm       A      G        Asus4  A
+l1: Dico sì    a una nuova realtà
+
