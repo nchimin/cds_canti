@@ -3,6 +3,9 @@
 
 # Dico sì
 
+
+
+
 ## Intro
 :::abc
 X:1
@@ -98,6 +101,7 @@ l1: e da Dio il nostro Amore     sgorgherà
 X:1
 M:4/4
 K:D
-"Asus4"z2 "A"z E FG |"D"A2 A A3 A(A|A)(EE2) z A AA| "G"A2 G G3 F(E|"A4"F2)| z2 "A"z E FG|
- "Bm"F2 F B2 B2 (A | "Fm7"A) G2 (F F2) z2 | |]
+ "Asus4"z2 "A"z E FG |"D"A2 A A3 A A-|AE-E2 z A AA| "G"A2 G G3 FE-|"A4"E2 z2 "A"z E FG|
+ "D"A2 A A3 AA-|AE-E2 z A AA |"G"A2 G G3 FE- |"Asus4"E2 z2 "A"z E FG | "Bm"F2 F B2 B2 A- |
+ "Fm7"A G2 F-F2 z2 | "G"D3 D G2 FE- |"A"E4 z2 EE | "G"D2 D2 G2 FE- |"Asus4"(E E3) "A"z2 DC| "D"D6 z2  |]
 :::
