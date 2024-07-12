@@ -8,7 +8,7 @@
 X:1
 M:4/4
 K:D
-"D"fga6 |"Em7"z bbabd'(a | "D"a8) | "G"b a2 g2 f2 z | "Bm"de f6 | "A"z e ed e2 f(d|("Gm6"d8)|d8)|]
+"D"fga6 |"Em7"z bbabd'a- | "D"a8 | "G"b a2 g2 f2 z | "Bm"de f6 | "A"z e ed e2 fd-|"Gm6"d8-|d8|]
 :::
 
 ## Strofa 1
@@ -28,7 +28,7 @@ l1: Dico sì    a una nuova realtà
 X:1
 M:4/4
 K:D
-"D"fga6 |"Em7"z bbabd'(a | "D"a8) | "G"b a2 g2 f2 z | "Bm"de f6 | "A"z e ed e2 f(d|("Gm6"d8)|d8)|]
+"D"fga6 |"Em7"z bbabd'a- | "D"a8 | "G"b a2 g2 f2 z | "Bm"de f6 | "A"z e ed e2 fd-|"Gm6"d8-|d8|]
 :::
 
 ## Strofa 2
@@ -63,7 +63,7 @@ l1: e da Dio il nostro Amore     sgorgherà
 X:1
 M:4/4
 K:D
-ga6 |"Em7"z bbabd'(a | "D"a8) | "G"b a2 g2 f2 z | "Bm"de f6 | "A"z e ed e2 f(d|("Gm6"d8)|d8)|]
+fga6 |"Em7"z bbabd'a- | "D"a8 | "G"b a2 g2 f2 z | "Bm"de f6 | "A"z e ed e2 fd-|"Gm6"d8-|d8|]
 :::
 
 ## Strofa 3
