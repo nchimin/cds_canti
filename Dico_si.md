@@ -8,6 +8,7 @@
 
 ## Intro
 :::abc
+%%linebreak <none>
 X:1
 M:4/4
 K:D
