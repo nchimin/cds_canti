@@ -104,11 +104,11 @@ M:4/4
 K:D
 %%linebreak <none>
 %%chordnames Do,Re,Mi,Fa,Sol,La,Si
-"_Asus4"z2 "_A"z E FG |"_D"A2 A A3 AA-|"A"AE-E2 z A AA| "G"A2 G G3 FE-|"A4"E2 z2 "A"z E FG|
+"Asus4"z2 "A"z E FG |"D"A2 A A3 AA-|"A"AE-E2 z A AA| "G"A2 G G3 FE-|"A4"E2 z2 "A"z E FG|
 "D"A2 A A3 AA-|"A"AE-E2 z A AA |"G"A2 G G3 FE- |
-"_Asus4"E2 z2 "_A"z E FG | "_Bm"F2 F B2 B2 A- | "_Fm7"A G2 F-F2 z2 |
+"Asus4"E2 z2 "A"z E FG | "Bm"F2 F B2 B2 A- | "Fm7"A G2 F-F2 z2 |
 w: * * sino al-la fi-ne del-la vi-ta e poi 
-"_G"D3 D G2 FE- |"_A"E4 z2 EE | "_G"D2 D2 G2 FE- |"_Asus4"(E E3) "_A"z2 DC| "_D"D6 z2  |]
+"G"D3 D G2 FE- |"A"E4 z2 EE | "G"D2 D2 G2 FE- |"Asus4"(E E3) "A"z2 DC| "D"D6 z2  |]
 w: nell' e-ter-ni-tà _ e da Dio il nostro a-mo-_re sgor-ghe-rà. 
 
 :::
