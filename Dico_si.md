@@ -103,7 +103,7 @@ X:1
 M:4/4
 K:D
 %%linebreak <none>
-%%chordnames Do,R´e,Mi,Fa,Sol,La,Si
+%%chordnames Do,Re,Mi,Fa,Sol,La,Si
 "_Asus4"z2 "_A"z E FG |"_D"A2 A A3 AA-|"A"AE-E2 z A AA| "G"A2 G G3 FE-|"A4"E2 z2 "A"z E FG|
 "D"A2 A A3 AA-|"A"AE-E2 z A AA |"G"A2 G G3 FE- |
 "_Asus4"E2 z2 "_A"z E FG | "_Bm"F2 F B2 B2 A- | "_Fm7"A G2 F-F2 z2 |
